@@ -1,0 +1,6 @@
+# Upgrading default Ubuntu 16.04 python3 packages
+pip==9.0.1
+setuptools==32.3.1
+requests==2.12.4
+
+# Project packages
